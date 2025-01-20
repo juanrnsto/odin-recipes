@@ -1,0 +1,1 @@
+ i guess im about to make a recipe website. need to review my terminal process of cloning a repository using ssh on github. took me a lot longer than i'd like to admit.
